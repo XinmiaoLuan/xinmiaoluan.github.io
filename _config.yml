@@ -13,10 +13,11 @@ author: Some Person
 
 navbar-links:
   About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
+  Environmental Engineering: "Environmental Engineering"
+  Photograth:
+    - China: "https://beautifuljekyll.com"
+    - Germany: "https://www.markdowntutorial.com/"
     - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
 
 # --- Logo --- #
 
